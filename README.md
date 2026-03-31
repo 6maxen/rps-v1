@@ -1,4 +1,4 @@
-👉Live Demo: https://6maxen.github.io/top-rps/
+👉Live Demo: https://6maxen.github.io/rps-v1/
 
 _Built as part of The Odin Project curriculum_ 🧙‍♂️
 
