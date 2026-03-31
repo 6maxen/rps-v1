@@ -2,4 +2,4 @@
 
 Built as part of The Odin Project curriculum
 
-Planning on revisiting Rock-Paper-Scissors soon with the skills I have now! :)
+Planning on revisiting Rock-Paper-Scissors soon! 😊
